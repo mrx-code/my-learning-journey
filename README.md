@@ -1,2 +1,4 @@
-# my-learning-journey
-This repository is about my daily notes and resources while exploring GitHub.
+# My Learning Journey
+- Day 1: Created my first repo
+- Day 2: Exploring trending projects
+- Day 3: Learning about open source
