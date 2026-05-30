@@ -4,3 +4,4 @@
 - Day 3: Learning about open source
 -  Day 4: Added more notes to my journey
 - Day 5: Created a new repo for useful links
+- Day 6: Updated useful-links with MDN Web Docs
