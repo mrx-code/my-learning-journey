@@ -5,6 +5,8 @@
 -  Day 4: Added more notes to my journey
 - Day 5: Created a new repo for useful links
 - Day 6: Updated useful-links with MDN Web Docs
+- - Day 7: Added MDN Web Docs link to useful-links
+
 ## Next Goals
 - Learn about GitHub Issues
 - Explore Discussions
