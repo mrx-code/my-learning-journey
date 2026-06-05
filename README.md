@@ -7,7 +7,7 @@
 - Day 6: Updated useful-links with MDN Web Docs
 - Day 7: Added MDN Web Docs link to useful-links
 - Day 8: Explored trending repositories and starred one project
-- 
+- Day 9: Checked trending repositories and starred one project
 ## Next Goals
 - Learn about GitHub Issues
 - Explore Discussions
