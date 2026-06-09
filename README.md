@@ -8,6 +8,8 @@
 - Day 7: Added MDN Web Docs link to useful-links
 - Day 8: Explored trending repositories and starred one project
 - Day 9: Checked trending repositories and starred one project
+- Day 10: Updated profile by pinning repos and exploring trending projects
+
 ## Next Goals
 - Learn about GitHub Issues
 - Explore Discussions
